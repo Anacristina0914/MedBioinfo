@@ -1,3 +1,5 @@
 *.sra
 .ipynb_checkpoints
-
+data/sra_fastq/*
+scripts/download_fastq.sh
+scripts/*.out
