@@ -3,3 +3,6 @@
 data/sra_fastq/*
 scripts/download_fastq.sh
 scripts/*.out
+data/blast_db/*
+data/merged_pairs/*
+analyses/blastn/*
